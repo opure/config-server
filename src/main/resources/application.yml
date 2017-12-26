@@ -14,4 +14,4 @@ spring:
       server:
         git:
           uri: git@github.com:opure/config-server.git
-
+          search-paths: config-server/config-repo
